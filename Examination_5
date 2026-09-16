@@ -8,4 +8,8 @@
 # เขียนโค้ดต่อจากนี้
 quantity = int(input())
 
+if quantity >= 5:
+    print("got cupon 10 bath")
+else:
+    print("nomal price")
 
